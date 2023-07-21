@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/edengar.github.io/static/css/main.31d6cfe0.css",
+    "main.js": "/edengar.github.io/static/js/main.fbdf4689.js",
+    "index.html": "/edengar.github.io/index.html",
+    "main.fbdf4689.js.map": "/edengar.github.io/static/js/main.fbdf4689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fbdf4689.js"
+  ]
+}
